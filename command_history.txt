@@ -8,3 +8,6 @@
 /surveyor share Chengooze
 /locate structure underground_bunkers:underground_bunker
 /tp @s 16 ~ 48
+/whitelist list
+/whitelist add ndptvfr
+/weather

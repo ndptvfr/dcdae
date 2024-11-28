@@ -49,12 +49,12 @@
 	// Haste and fatique on low hydration
 	"special_effects": false,
 	// Applies to all ultrawarm dimensions
-	"harder_nether": true,
+	"harder_nether": false,
 	// 1.3 = 30% more thirst
 	"nether_factor": 1.2999999523162842,
 	// Enables alternate textures by the lead texture artist
-	"other_droplet_texture": true,
+	"other_droplet_texture": false,
 	"hud_x": 0,
 	"hud_y": 0,
-	"thirst_preview": false
+	"thirst_preview": true
 }

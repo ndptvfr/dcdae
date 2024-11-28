@@ -5,9 +5,9 @@
     "enableGrubsDrop": true,
     "enableLeechesDrop": true,
     "neutralFishBehavior": false,
-    "displayAllFishVariantInCreativeTab": true,
+    "displayAllFishVariantInCreativeTab": false,
     "enableFishItemWithAllVariant": false,
-    "displayTrophySpawnEggInCreativeTab": true
+    "displayTrophySpawnEggInCreativeTab": false
   },
   "spawnRate": {
     "trophyProbability": 0.15,

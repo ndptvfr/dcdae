@@ -6,7 +6,7 @@
   "doAdvancementsBackgroundFade": true,
   "showDebugCoordinates": false,
   "orderTabsAlphabetically": false,
-  "uiScaling": 90,
+  "uiScaling": 100,
   "criteriaDetail": "Default",
   "criteriaDetailRequiresShift": false,
   "addInventoryButton": false,
