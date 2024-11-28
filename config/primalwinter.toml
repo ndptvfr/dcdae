@@ -22,7 +22,7 @@
 
     # How dense the fog effect during a snowstorm is.
     # Range: [0.0, 1.0]
-    fogDensity = 0.1
+    fogDensity = 0.4
 
     # How visually dense the snow weather effect is. Normally, vanilla sets this to 5 with fast graphics, and 10 with fancy graphics.
     # Range: [1, 15]

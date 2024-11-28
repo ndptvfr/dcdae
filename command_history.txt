@@ -1,0 +1,10 @@
+/difficulty peaceful
+/kill
+/difficulty peaceful
+/surveyor share Chengooze
+/surveyor landmarks
+/surveyor share Chengooze
+/surveyor unshare
+/surveyor share Chengooze
+/locate structure underground_bunkers:underground_bunker
+/tp @s 16 ~ 48
