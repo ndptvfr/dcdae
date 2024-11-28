@@ -53,8 +53,8 @@
 	// 1.3 = 30% more thirst
 	"nether_factor": 1.2999999523162842,
 	// Enables alternate textures by the lead texture artist
-	"other_droplet_texture": false,
+	"other_droplet_texture": true,
 	"hud_x": 0,
 	"hud_y": 0,
-	"thirst_preview": true
+	"thirst_preview": false
 }

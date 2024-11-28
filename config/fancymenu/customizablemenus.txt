@@ -24,3 +24,9 @@ garden.hestia.hoofprint.HoofprintScreen {
 net.minecraft.class_442 {
 }
 
+net.puffish.skillsmod.client.gui.SkillsScreen {
+}
+
+net.minecraft.class_8219 {
+}
+

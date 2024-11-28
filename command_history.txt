@@ -11,3 +11,18 @@
 /whitelist list
 /whitelist add ndptvfr
 /weather
+/surveyor landmarks remove surveyor:point
+/surveyor landmarks remove surveyor:point 23 80 26
+/setworldspawn 19 79 27
+/locate structure #minecraft:village
+/tp @s -496 ~ -912
+/tp Chengooze ndptvfr
+/op Chengooze
+/tgbridge dump_lang
+/kill
+/kill @e[type=minecraft:skeleton]
+/puffish_skills skills unlock 06e427eb
+/puffish_skills skills unlock 06e427eb*
+/puffish_skills skills unlock 06e427eb *
+/xp add @s 1 levels
+/xp add @s 10 levels
