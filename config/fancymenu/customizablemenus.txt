@@ -30,3 +30,12 @@ net.puffish.skillsmod.client.gui.SkillsScreen {
 net.minecraft.class_8219 {
 }
 
+com.wildfire.gui.screen.WardrobeBrowserScreen {
+}
+
+com.wildfire.gui.screen.WildfireCharacterSettingsScreen {
+}
+
+com.wildfire.gui.screen.WildfireBreastCustomizationScreen {
+}
+

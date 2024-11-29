@@ -26,3 +26,16 @@
 /puffish_skills skills unlock 06e427eb *
 /xp add @s 1 levels
 /xp add @s 10 levels
+/kill
+/reload
+/enchant ndptvfr minecraft:efficiency 5
+/spawnpoint Chengooze 216 54 -59
+/effect give ndptvfr minecraft:haste infinite 255 true
+/effect give Chengooze minecraft:haste infinite 255 true
+/tp Chengooze ndptvfr
+/effect clear ndptvfr
+/tp Chengooze ndptvfr
+/spawnpoint @a ~ ~ ~
+/tp Chengooze ndptvfr
+/effect give @a minecraft:night_vision infinite 255 true
+/kill 49ceb91b-3abb-42f0-8aa9-b40da35c9e3e

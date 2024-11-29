@@ -121,12 +121,13 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.wildfire_gender.gender_menu:key.keyboard.g
 key_key.deeperdarker.boost:key.keyboard.x
 key_key.deeperdarker.transmit:key.keyboard.z
 key_key.energizedpower.teleporter.use:key.keyboard.c
 key_key.hoofprint.open:key.keyboard.m
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_key.puffish_skills.open:key.keyboard.k
+key_key.puffish_skills.open:key.keyboard.n
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.unknown
@@ -138,7 +139,7 @@ key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 soundCategory_master:0.750551876379691
-soundCategory_music:0.051643192488262976
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.2065727699530517
 soundCategory_block:1.0
