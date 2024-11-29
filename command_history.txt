@@ -39,3 +39,7 @@
 /tp Chengooze ndptvfr
 /effect give @a minecraft:night_vision infinite 255 true
 /kill 49ceb91b-3abb-42f0-8aa9-b40da35c9e3e
+/tp Alpha23 ndptvfr
+/gamemode creative Alpha23
+/kill @e[type=!player]
+/kick Alpha23
