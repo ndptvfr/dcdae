@@ -43,3 +43,6 @@
 /gamemode creative Alpha23
 /kill @e[type=!player]
 /kick Alpha23
+/surveyor landmarks remove surveyor:player_death
+/surveyor landmarks remove surveyor:player_death 417 62 234
+/reload
