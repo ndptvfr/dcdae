@@ -1,35 +1,3 @@
-/tp @s 16 ~ 48
-/whitelist list
-/whitelist add ndptvfr
-/weather
-/surveyor landmarks remove surveyor:point
-/surveyor landmarks remove surveyor:point 23 80 26
-/setworldspawn 19 79 27
-/locate structure #minecraft:village
-/tp @s -496 ~ -912
-/tp Chengooze ndptvfr
-/op Chengooze
-/tgbridge dump_lang
-/kill
-/kill @e[type=minecraft:skeleton]
-/puffish_skills skills unlock 06e427eb
-/puffish_skills skills unlock 06e427eb*
-/puffish_skills skills unlock 06e427eb *
-/xp add @s 1 levels
-/xp add @s 10 levels
-/kill
-/reload
-/enchant ndptvfr minecraft:efficiency 5
-/spawnpoint Chengooze 216 54 -59
-/effect give ndptvfr minecraft:haste infinite 255 true
-/effect give Chengooze minecraft:haste infinite 255 true
-/tp Chengooze ndptvfr
-/effect clear ndptvfr
-/tp Chengooze ndptvfr
-/spawnpoint @a ~ ~ ~
-/tp Chengooze ndptvfr
-/effect give @a minecraft:night_vision infinite 255 true
-/kill 49ceb91b-3abb-42f0-8aa9-b40da35c9e3e
 /tp Alpha23 ndptvfr
 /gamemode creative Alpha23
 /kill @e[type=!player]
@@ -48,3 +16,35 @@
 /voicechat test ndptvfr
 /kill Chengooze
 /deop ndptvfr
+/kill Chengooze
+/difficulty peaceful
+/surveyor landmarks add surveyor:point ~ ~ ~ yellow тест
+/seed
+/tp Chengooze ndptvfr
+/give Chengooze fishofthieves:ancientscale
+/give Chengooze minecraft:fishing_rod
+/give Chengooze minecraft:tropical_fish
+/give Chengooze minecraft:salmon 24
+/gamerule doDaylightCycle false
+/kill @e[type=minecraft:zombie_villager]
+/kill @e[type=minecraft:item]
+/kill 0bdd1e8d-9ae3-4ae0-b5dd-63e6781bb064
+/kill @e[type=minecraft:item]
+/setworldspawn 50 63 143
+/advancement revoke @a everything
+/setworldspawn 50 63 144
+/function blazeandcave:config
+/team add start
+/tp Chengooze ndptvfr
+/team modify start friendlyFire false
+/reload
+/function vanilla_refresh:_settings
+/куд
+/reload
+/gamerule doDaylightCycle true
+/time set 0
+/time set -10
+/function vanilla_refresh:_settings
+/function blazeandcave:config
+/kill d0d1f550-ab1e-4f3e-a51a-05d0e518ffef
+/kill @e[type=minecraft:item]
