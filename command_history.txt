@@ -1,4 +1,3 @@
-/tp Alpha23 ndptvfr
 /gamemode creative Alpha23
 /kill @e[type=!player]
 /kick Alpha23
@@ -48,3 +47,4 @@
 /function blazeandcave:config
 /kill d0d1f550-ab1e-4f3e-a51a-05d0e518ffef
 /kill @e[type=minecraft:item]
+/time set 0
