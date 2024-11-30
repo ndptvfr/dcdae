@@ -18,7 +18,7 @@ landmarks = "DYNAMIC"
 netherPortalLandmarks = true
 # Whether to automatically add player death waypoints
 # default: true
-playerDeathLandmarks = true
+playerDeathLandmarks = false
 # Displays the following logs and messages:
 # [Action Bar] Structure Discovery
 # default: false
@@ -44,7 +44,7 @@ debugMode = false
 	# SERVER sync server-known landmarks, GROUP sends group-known landmarks, SOLO sends player-known landmarks, NONE sends no landmarks
 	# options: NONE, SOLO, GROUP, SERVER
 	# default: GROUP
-	landmarks = "SOLO"
+	landmarks = "SERVER"
 	# Which waypoints (player-created landmarks) to sync between client and server
 	# When SERVER, players can see (but not edit) all waypoints, including potentially offensive names
 	# When GROUP, players can see (but not edit) waypoints created by players in their share group
