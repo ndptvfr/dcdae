@@ -7,4 +7,4 @@ transparentWater = true
 # default: true
 lighting = true
 # default: true
-showOffline = true
+showOffline = false

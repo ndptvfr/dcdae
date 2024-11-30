@@ -1,4 +1,3 @@
-/difficulty peaceful
 /kill
 /difficulty peaceful
 /surveyor share Chengooze
@@ -46,3 +45,6 @@
 /surveyor landmarks remove surveyor:player_death
 /surveyor landmarks remove surveyor:player_death 417 62 234
 /reload
+/tp Chengooze ndptvfr
+/spawnpoint Chengooze
+/kill Chengooze
