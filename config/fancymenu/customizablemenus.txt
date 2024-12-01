@@ -3,9 +3,6 @@ type = customizablemenus
 net.minecraft.class_4189 {
 }
 
-net.envs.winter.clientkeylogin.gui.EditIdentityScreen {
-}
-
 de.maxhenkel.voicechat.gui.VoiceChatScreen {
 }
 
@@ -37,5 +34,8 @@ net.minecraft.class_442 {
 }
 
 net.minecraft.class_429 {
+}
+
+net.envs.winter.clientkeylogin.gui.EditIdentityScreen {
 }
 

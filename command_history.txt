@@ -1,50 +1,50 @@
-/recipe give Chengooze winterly:snowguy
-/give 1egoshi minecraft:glass_bottle
-/surveyor landmarks add surveyor:point 181 69 108 blue шахта
-/surveyor landmarks add surveyor:point 50 70 143 yellow спавн
-/noportals disableNetherPortal true
-/noportals disableEndPortal true
-/noportals save
-/noportals reload
-/puffish_skills skills reset ndptvfr
-/puffish_skills skills reset ndptvfr puffish_skills:combat
-/puffish_skills skills reset ndptvfr puffish_skills:mining
-/reload
-/whitelist add Diablo
-/whitelist add irewa23
-/whitelist add ndptvfr
-/whitelist add smokett
-/whitelist add tankian_yan
-/whitelist add wexztn
-/whitelist add DocumentBit
-/whitelist add sigmasos
-/whitelist add Korotist_zabrat
-/whitelist add 1egoshi
-/whitelist add neversaywhy
-/whitelist add Pechenka_UwU
-/whitelist add Serg
-/whitelist add Alpha23
-/whitelist add Chengooze
-/whitelist list
-/whitelist on
-/whitelist reload
-/puffish_skills points add ndptvfr puffish_skills:mining 1
-/puffish_skills points add ndptvfr puffish_skills:combat 1
-/surveyor landmarks add surveyor:point ~ ~ ~ light_blue дом димы
-/surveyor landmarks add surveyor:point ~ ~ ~ purple дом ани
-/surveyor landmarks remove surveyor:point ~ ~ ~
-/surveyor landmarks add surveyor:point ~ ~ ~ magenta дом ани
-/function vanilla_refresh:_settings
-/recipe give ndptvfr minecraft:crafter
-/whitelist off
-/whitelist reload
-/puffish_skills points add Chengooze puffish_skills:mining 5
-/puffish_skills experience set Chengooze puffish_skills:mining 0
-/puffish_skills points set Chengooze puffish_skills:mining 0\
-/puffish_skills points set Chengooze puffish_skills:mining 0
-/puffish_skills experience set Chengooze puffish_skills:mining 4100
-/puffish_skills experience set ndptvfr puffish_skills:mining 500
 /puffish_skills points set ndptvfr puffish_skills:mining 0
 /puffish_skills experience set ndptvfr puffish_skills:mining 800
 /w LoGnOg 11
 /w LoGnOg 1121
+/team add first "первые"
+/team join first
+/team join first Chengooze
+/team modify first displayName "f"
+/team modify first displayName "первые"
+/team modify first prefix F
+/team modify first prefix "F"
+/team modify first prefix "[первые] "
+/team modify first prefix ""
+/team modify first suffix "g"
+/team modify first suffix ""
+/team modify first nametagVisibility never
+/team modify first nametagVisibility always
+/team modify first color green
+/function blazeandcave:config
+/team modify first suffix "[п]"
+/team modify first suffix " [п]"
+/team modify first suffix ""
+/team add samurai "самураи"
+/team join samurai smokett
+/team join samurai Diablo
+/team join samurai neversaywhy
+/team join samurai tankian_yan
+/team modify samurai color red
+/team modify samurai color #434343
+/team modify samurai color dark_red
+/team modify samurai color red
+/team join first tired00x
+/team join first LoGnOg
+/team join first wexzt
+/team join first wexztn
+/team remove first wexzt
+/team leave wexzt
+/team modify first color reset
+/team modify first prefix "☄ "
+/team modify first prefix "☄"
+/team modify first prefix "⚐"
+/team modify first prefix "⚐ "
+/team modify first suffix " ⚐"
+/team modify first prefix ""
+/team modify samurai suffix " ⚔"
+/team modify samurai color reset
+/team modify first suffix " ☀"
+/team modify first suffix " 🔥"
+/team modify first suffix " ⏳"
+/team modify first suffix " ⌛"

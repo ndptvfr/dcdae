@@ -18,7 +18,7 @@
   "client-key-login.editIdentity.title": "Изменить аккаунт",
   "client-key-login.editIdentity.enterUsername": "Имя пользователя",
   "client-key-login.editIdentity.enterSkinUrl": "URL-адрес вашего скина",
-  "client-key-login.editIdentity.enterCapeUrl": "URL-адрес вашего плаща",
+  "client-key-login.editIdentity.enterCapeUrl": " ",
   "client-key-login.editIdentity.copySkin": "Копирование текстур из Mojang",
   "client-key-login.editIdentity.copySkin.tooltip": "Импортируйте текстуры скина и плаща из учетной записи Minecraft с тем же именем пользователя.",
   "client-key-login.editIdentity.checkUrls": "Введенные URL-адреса текстур кожи и/или накидки недействительны.",
