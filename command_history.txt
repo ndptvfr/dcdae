@@ -1,41 +1,3 @@
-/setworldspawn 50 63 144
-/function blazeandcave:config
-/team add start
-/tp Chengooze ndptvfr
-/team modify start friendlyFire false
-/reload
-/function vanilla_refresh:_settings
-/куд
-/reload
-/gamerule doDaylightCycle true
-/time set 0
-/time set -10
-/function vanilla_refresh:_settings
-/function blazeandcave:config
-/kill d0d1f550-ab1e-4f3e-a51a-05d0e518ffef
-/kill @e[type=minecraft:item]
-/time set 0
-/time set day
-/tp irewa23 ndptvfr
-/time set 0
-/difficulty peaceful
-/tp Serg ndptvfr
-/tp tankian_yan ndptvfr
-/tp wexztn ndptvfr
-/function vanilla_refresh:_settings
-/time set 0
-/tp Diablo ndptvfr
-/tp Pechenka_UwU ndptvfr
-/tp neversaywhy ndptvfr
-/time set 0
-/tp smokett ndptvfr
-/tp Alpha23 ndptvfr
-/difficulty hard
-/gamemode survival @a
-/give @a minecraft:glass_bottle
-/give Pechenka_UwU minecraft:glass_bottle
-/team remove start
-/give ndptvfr minecraft:glass_bottle
 /recipe give Chengooze winterly:snowguy
 /give 1egoshi minecraft:glass_bottle
 /surveyor landmarks add surveyor:point 181 69 108 blue шахта
@@ -48,3 +10,41 @@
 /puffish_skills skills reset ndptvfr puffish_skills:combat
 /puffish_skills skills reset ndptvfr puffish_skills:mining
 /reload
+/whitelist add Diablo
+/whitelist add irewa23
+/whitelist add ndptvfr
+/whitelist add smokett
+/whitelist add tankian_yan
+/whitelist add wexztn
+/whitelist add DocumentBit
+/whitelist add sigmasos
+/whitelist add Korotist_zabrat
+/whitelist add 1egoshi
+/whitelist add neversaywhy
+/whitelist add Pechenka_UwU
+/whitelist add Serg
+/whitelist add Alpha23
+/whitelist add Chengooze
+/whitelist list
+/whitelist on
+/whitelist reload
+/puffish_skills points add ndptvfr puffish_skills:mining 1
+/puffish_skills points add ndptvfr puffish_skills:combat 1
+/surveyor landmarks add surveyor:point ~ ~ ~ light_blue дом димы
+/surveyor landmarks add surveyor:point ~ ~ ~ purple дом ани
+/surveyor landmarks remove surveyor:point ~ ~ ~
+/surveyor landmarks add surveyor:point ~ ~ ~ magenta дом ани
+/function vanilla_refresh:_settings
+/recipe give ndptvfr minecraft:crafter
+/whitelist off
+/whitelist reload
+/puffish_skills points add Chengooze puffish_skills:mining 5
+/puffish_skills experience set Chengooze puffish_skills:mining 0
+/puffish_skills points set Chengooze puffish_skills:mining 0\
+/puffish_skills points set Chengooze puffish_skills:mining 0
+/puffish_skills experience set Chengooze puffish_skills:mining 4100
+/puffish_skills experience set ndptvfr puffish_skills:mining 500
+/puffish_skills points set ndptvfr puffish_skills:mining 0
+/puffish_skills experience set ndptvfr puffish_skills:mining 800
+/w LoGnOg 11
+/w LoGnOg 1121

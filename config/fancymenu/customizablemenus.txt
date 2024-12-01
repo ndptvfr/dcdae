@@ -6,9 +6,6 @@ net.minecraft.class_4189 {
 net.envs.winter.clientkeylogin.gui.EditIdentityScreen {
 }
 
-net.minecraft.class_429 {
-}
-
 de.maxhenkel.voicechat.gui.VoiceChatScreen {
 }
 
@@ -37,5 +34,8 @@ com.wildfire.gui.screen.WildfireBreastCustomizationScreen {
 }
 
 net.minecraft.class_442 {
+}
+
+net.minecraft.class_429 {
 }
 
