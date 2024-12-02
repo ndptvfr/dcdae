@@ -1,17 +1,3 @@
-/puffish_skills points set ndptvfr puffish_skills:mining 0
-/puffish_skills experience set ndptvfr puffish_skills:mining 800
-/w LoGnOg 11
-/w LoGnOg 1121
-/team add first "первые"
-/team join first
-/team join first Chengooze
-/team modify first displayName "f"
-/team modify first displayName "первые"
-/team modify first prefix F
-/team modify first prefix "F"
-/team modify first prefix "[первые] "
-/team modify first prefix ""
-/team modify first suffix "g"
 /team modify first suffix ""
 /team modify first nametagVisibility never
 /team modify first nametagVisibility always
@@ -48,3 +34,17 @@
 /team modify first suffix " 🔥"
 /team modify first suffix " ⏳"
 /team modify first suffix " ⌛"
+/tgbridge reload
+/tgbridge dump_lang
+/tgbridge reload
+/advancement revoke ndptvfr only blazeandcave:animal/chatterbox
+/team modify first suffix
+/team modify first suffix ::
+/team modify first suffix ""
+/team modify samurai suffix ""
+/team modify samurai color red
+/team modify first color green
+/team list
+/team list samurai
+/team list first
+/function vanilla_refresh:_settings
