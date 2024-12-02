@@ -142,10 +142,10 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:0.5022075055187638
+soundCategory_master:0.5
 soundCategory_music:0.0
 soundCategory_record:1.0
-soundCategory_weather:0.2065727699530517
+soundCategory_weather:0.051643192488262976
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
